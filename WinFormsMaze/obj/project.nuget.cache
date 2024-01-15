@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "wMBs2pd6jwPCskIUEljn747mu+E10KQdf15YcG+IC67ms/tNX51b83n0WinxymLoLgXuAnSz4Szit0/UKAQBVQ==",
+  "success": true,
+  "projectFilePath": "C:\\C_L_Werken\\todelete\\Mccc\\WinFormsMaze\\WinFormsMaze.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\cuell\\.nuget\\packages\\system.configuration.configurationmanager\\8.0.0\\system.configuration.configurationmanager.8.0.0.nupkg.sha512",
+    "C:\\Users\\cuell\\.nuget\\packages\\system.security.cryptography.protecteddata\\8.0.0\\system.security.cryptography.protecteddata.8.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

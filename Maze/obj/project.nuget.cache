@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "Zvg7JucK+B5WnJFk2jxPUvtFlJHdxJQ50uyYL4grfWRhML/hVTWvgwB5u8WwrwapoiAM0C2shPrNGu8m26h5gw==",
+  "success": true,
+  "projectFilePath": "C:\\C_L_Werken\\todelete\\Mccc\\Maze\\Maze.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\cuell\\.nuget\\packages\\system.configuration.configurationmanager\\8.0.0\\system.configuration.configurationmanager.8.0.0.nupkg.sha512",
+    "C:\\Users\\cuell\\.nuget\\packages\\system.security.cryptography.protecteddata\\8.0.0\\system.security.cryptography.protecteddata.8.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
